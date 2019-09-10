@@ -12,11 +12,11 @@ def my_find(collection)
   
   end
 
-  if found.empty?
-    return nil
-  else
-    found
-  end
+  # if found.empty?
+  #   return nil
+  # else
+  #   found
+  # end
   
   found.empty? ? nil : found
 end
