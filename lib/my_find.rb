@@ -14,4 +14,6 @@ def my_find(collection)
 
   if found.empty?
     return nil
+  else
+    found
 end
