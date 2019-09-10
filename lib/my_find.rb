@@ -12,5 +12,6 @@ def my_find(collection)
   
   end
 
-  if found.is_empty
+  if found.empty?
+    return nil
 end
