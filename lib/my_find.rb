@@ -16,4 +16,5 @@ def my_find(collection)
     return nil
   else
     found
+  end
 end
